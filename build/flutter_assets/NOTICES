@@ -8700,6 +8700,11 @@ freely, subject to the following restrictions:
 3. This notice may not be removed or altered from any source
    distribution.
 --------------------------------------------------------------------------------
+global_state
+
+TODO: Add your license here.
+
+--------------------------------------------------------------------------------
 glslang
 
 Copyright (C) 2002-2005  3Dlabs Inc. Ltd.
